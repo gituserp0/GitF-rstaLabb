@@ -1,4 +1,9 @@
-Jag tappade tyvärr bort någon prompt då jag gjorde allt så snabbt, jag har gjort om allt flera gånger. Jag tror det enda jag promptade var då jag skapade .md filerna.
+
+# **AI-prompt & svar**
+
+## Varje prompt kommer att få en egen undertitel
+
+<!-- Jag tappade tyvärr bort någon prompt då jag gjorde allt så snabbt, jag har gjort om allt flera gånger. Jag tror det enda jag promptade var då jag skapade .md filerna. För att se process med alla filer så se **skärmbilder** -->
 
 Första prompt:
 Jag har skapat mitt git repo. Detta är vad som finns inuti repo. PS C:\Users\curze\Desktop\Git\Skola\GitFörstaLabb> dir
@@ -68,3 +73,5 @@ Båda de virtuella maskinerna är placerade på ett gemensamt internt nätverk f
    ```bash
    sudo mkdir -p /var/systementor/konsultdata
    sudo touch /var/systementor/konsultdata/anteckningar.txt
+
+ <!-- Detta gillade jag inte. Lägger själv till moment vid git repo - se färdig labbrapport för resultat -->
